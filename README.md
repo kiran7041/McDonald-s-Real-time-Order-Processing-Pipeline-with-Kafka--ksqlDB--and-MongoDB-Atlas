@@ -38,7 +38,7 @@ This project demonstrates a real-time data pipeline for McDonald's order process
 ## Screenshots
 Include screenshots of different stages:
 - **Mock Data Generation**:  
-  ![Mock Data Generation]("images/mockdata.jpg")
+  ![Mock Data Generation](images/mockdata.jpg)
 
 - **Kafka Topic Data Flow**:  
   ![Kafka Topic Data Flow](images/kafka_topic1.jpg)
